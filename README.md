@@ -11,7 +11,7 @@ I'm a 4rd-year Physics and Mathematics Student [@ESFM IPN](https://www.esfm.ipn.
 
 
 - :school: I'm currently studying in ... [Escuela Superior de Física y Matemáticas - Institulo Politécnico Nacional](https://www.esfm.ipn.mx/) México
-- 🌱 I’m currently learning Software Engineering Principles, Software Architecture and Most Famous Design Patterns
+- 🌱 I’m currently learning Physics and Mathematics Student Principles, Data Science, Artificial Inteligence and Quantum Computing.
 - 👨‍💻 All of my projects are available  [here](https://github.com/JazzzFM?tab=repositories)
 - 👯 I’m looking to collaborate on ... Any of project
 - 💬 Ask me about ... What ever you what.... :laughing:
