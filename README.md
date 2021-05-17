@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**JazzzFM/JazzzFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about R & Python 
 - 📫 How to reach me: Jaziel Flores or JazzzFM 
 - ⚡ Fun fact: I'm Mathematician but I don't compute on my head
--->
+
