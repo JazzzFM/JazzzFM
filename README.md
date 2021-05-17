@@ -6,17 +6,17 @@
 
 I'm a 4rd-year Physics and Mathematics Student [@ESFM IPN](https://www.esfm.ipn.mx/) at México CDMX, pursuing a Master's degree in Computer Science, who is passionate about Physics, Mathematics, Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
 ![Twitter Follow](https://img.shields.io/twitter/follow/fm_jazzz?style=social)
-[![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jazieldavidfloresrodr%C3%ADguez/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aboelkassem.me@gmail.com)](mailto:contact@aboelkassem.me)
+[![dev.to badge](https://www.linkedin.com/in/jazieldavidfloresrodr%C3%ADguez/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jazzesfm@gmail.com)](mailto:jazzzfm@protonmail.com)
 ![githubbadge](https://img.shields.io/github/followers/JazzzFM?style=social)
 ![](https://komarev.com/ghpvc/?username=JazzzFM&color=brightgreen&style=flat)
 
 
 - :school: I'm currently studying in ... [Escuela Superior de Física y Matemáticas - Institulo Politécnico Nacional](https://www.esfm.ipn.mx/) México
 - 🌱 I’m currently learning Software Engineering Principles, Software Architecture and Most Famous Design Patterns
-- 👨‍💻 All of my projects are available  [here](https://github.com/aboelkassem?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/JazzzFM?tab=repositories)
 - 👯 I’m looking to collaborate on ... Any of project
-- 💬 Ask me about ... What ever.... :laughing:
+- 💬 Ask me about ... What ever you what.... :laughing:
 - 👯 Looking for an internship or opportunity.
 - 😄 Pronouns: ... He
 
@@ -25,7 +25,6 @@ I'm a 4rd-year Physics and Mathematics Student [@ESFM IPN](https://www.esfm.ipn.
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 #### Technologies
 ![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330)
