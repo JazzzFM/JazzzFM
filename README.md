@@ -1,4 +1,4 @@
-<img src="https://github.com/JazzzFM/JazzzFM.github.io/blob/main/img/logo/Home_single.png" width="100%">
+<img src="https://github.com/JazzzFM/JazzzFM.github.io/blob/main/img/logo/Home_single.png" width="60%">
 
 ### Hi, I'm <a href="https://jazzzfm.github.io"> Jaziel Flores </a> 👋🏼👨🏻‍💻
 
