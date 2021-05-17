@@ -7,7 +7,7 @@
 I'm a 4rd-year Physics and Mathematics Student [@ESFM IPN](https://www.esfm.ipn.mx/) at México CDMX, pursuing a Master's degree in Computer Science, who is passionate about Physics, Mathematics, Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
 
 [![twitter badge](https://img.shields.io/badge/-@aboel_kassem-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aboel_kassem)
-[![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aboelkassem)
+[![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jazieldavidfloresrodr%C3%ADguez/)
 [![glitch badge](https://img.shields.io/badge/-mo.aboelkassem-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mo.aboelkassem)
 [![twitter badge](https://img.shields.io/badge/-@ab0elkassem-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ab0elkassem)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aboelkassem.me@gmail.com)](mailto:contact@aboelkassem.me)
