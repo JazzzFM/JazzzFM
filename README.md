@@ -1,6 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning R & Python for Machine Learning
 - 👯 I’m looking to collaborate on creative proyects with Math and Physics inside
