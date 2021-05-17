@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JazzzFM/JazzzFM.github.io/blob/main/img/logo/Home_single.png" width="70%">
+<img src="https://github.com/JazzzFM/JazzzFM.github.io/blob/main/img/logo/Home_single.png" width="70%">
 </p>
 
 ### Hi, I'm <a href="https://jazzzfm.github.io"> Jaziel Flores </a> 👋🏼👨🏻‍💻
