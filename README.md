@@ -5,7 +5,7 @@
 ### Hi, I'm <a href="https://jazzzfm.github.io"> Jaziel Flores </a> 🔭🌌
 
 
-I'm a 4rd-year Physics and Mathematics Student [@ESFM IPN](https://www.esfm.ipn.mx/) at México CDMX, pursuing a Master's degree in Computer Science, who is passionate about Physics, Mathematics, Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
+I'm a 4th-year Physics and Mathematics Student [@ESFM IPN](https://www.esfm.ipn.mx/) at México CDMX, pursuing a Master's degree in Computer Science, who is passionate about Physics, Mathematics, Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jazzesfm@gmail.com)](mailto:jazzzfm@protonmail.com)
 ![githubbadge](https://img.shields.io/github/followers/JazzzFM?style=social)
 ![](https://komarev.com/ghpvc/?username=JazzzFM&color=brightgreen&style=flat)
