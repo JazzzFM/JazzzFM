@@ -1,7 +1,7 @@
 ### Hi, I'm <a href="https://jazzzfm.github.io"> Jaziel Flores </a> 🔭🌌
 
 
-I'm a Physics and Mathematics Lic [@ESFM IPN](https://www.esfm.ipn.mx/) at México CDMX, pursuing a Master's degree in Computer Science, who is passionate about Physics, Mathematics, Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
+I’m a physicist‑mathematician turned Lead ML Engineer in banking, where I design and run PySpark pipelines on clusters and serve FastAPI online models. Skilled in Docker, Kubernetes and Linux, I build resilient, cloud‑native MLOps solutions that prioritize automation, reproducibility and cost efficiency. I’m now eager to apply in a fintech or healthtech role where data science directly drives revenue and scales impact. I love to learn and contribute in any and every possible way.<br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jazzesfm@gmail.com)](mailto:jazzzfm@protonmail.com)
 ![githubbadge](https://img.shields.io/github/followers/JazzzFM?style=social)
 ![](https://komarev.com/ghpvc/?username=JazzzFM&color=brightgreen&style=flat)
